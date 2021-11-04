@@ -1,0 +1,32 @@
+[33mtag EntregaSemana2[m
+Tagger: unknown <rpcanova@hotmail.com>
+Date:   Sun Mar 8 20:27:05 2020 -0300
+
+Entrega exercicios appinventor
+
+[33mcommit fdedd8bfb65453ba4684cb61c1ad1788df90ed91[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: EntregaSemana2[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: unknown <rpcanova@hotmail.com>
+Date:   Sun Mar 8 20:23:19 2020 -0300
+
+    Exercicios appinventor
+
+[1mdiff --git a/Exercicio1AdivinharValor.aia b/Exercicio1AdivinharValor.aia[m
+[1mnew file mode 100644[m
+[1mindex 0000000..6bbcdb0[m
+Binary files /dev/null and b/Exercicio1AdivinharValor.aia differ
+[1mdiff --git a/Exercicio2Equacao.aia b/Exercicio2Equacao.aia[m
+[1mnew file mode 100644[m
+[1mindex 0000000..5a048c4[m
+Binary files /dev/null and b/Exercicio2Equacao.aia differ
+[1mdiff --git a/Exercicio3MegaSena.aia b/Exercicio3MegaSena.aia[m
+[1mnew file mode 100644[m
+[1mindex 0000000..faead5a[m
+Binary files /dev/null and b/Exercicio3MegaSena.aia differ
+[1mdiff --git a/Integrantes.txt b/Integrantes.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..a2e66ed[m
+[1m--- /dev/null[m
+[1m+++ b/Integrantes.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mNome: Rafael Pereira Canova	RA: 2920482011014[m
+\ No newline at end of file[m
